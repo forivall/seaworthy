@@ -1,6 +1,6 @@
 {
-  "name": "$NAME",
-  "description": "$DESCRIPTION",
+  "name": "seaworthy",
+  "description": "Validate TextMate grammars for Atom with first-mate",
   "version": "0.0.0",
   "dependencies": {},
   "scripts": {
