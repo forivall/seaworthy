@@ -2,7 +2,13 @@
   "name": "seaworthy",
   "description": "Validate TextMate grammars for Atom with first-mate",
   "version": "0.0.0",
-  "dependencies": {},
+  "bin": {
+    "seaworthy": "./bin/seaworthy.js"
+  },
+  "dependencies": {
+    "first-mate": "^5.1.1",
+    "oniguruma": "^6.0.1"
+  },
   "scripts": {
     "lint": "xo src/**",
     "build": "babel src -d lib",
@@ -33,7 +39,9 @@
     "url": "git@github.com:forivall/errmsg.git"
   },
   "babel": {
-    "presets": ["es2015"]
+    "presets": [
+      "es2015"
+    ]
   },
   "xo": {
     "space": 2,
