@@ -1,7 +1,7 @@
 {
   "name": "seaworthy",
   "description": "Validate TextMate grammars for Atom with first-mate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "bin": {
     "seaworthy": "./bin/seaworthy.js"
   },
