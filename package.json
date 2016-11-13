@@ -33,7 +33,7 @@
     "eslint-config-mxo": "^0.2.0",
     "jsinspect": "^0.8.0",
     "nyc": "^8.1.0",
-    "xo": "^0.16.0"
+    "xo": "^0.17.1"
   },
   "repository": {
     "type": "git",
