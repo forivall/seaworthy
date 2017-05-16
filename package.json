@@ -6,7 +6,7 @@
     "seaworthy": "./bin/seaworthy.js"
   },
   "dependencies": {
-    "first-mate": "^6.0.0",
+    "first-mate": "^7.0.7",
     "oniguruma": "^6.0.1"
   },
   "scripts": {
