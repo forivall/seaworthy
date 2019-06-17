@@ -24,7 +24,7 @@
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
   },
-  "author": "Jordan Klassen <forivall@gmail.com>",
+  "author": "Emily Marigold Klassen <forivall@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "ava": "^0.16.0",
