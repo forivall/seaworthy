@@ -31,7 +31,7 @@
     "ava": "^2.1.0",
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
-    "eslint-config-mxo": "^0.7.0",
+    "eslint-config-mxo": "^1.0.0",
     "jsinspect": "^0.12.7",
     "nyc": "^14.1.1",
     "xo": "^0.24.0"
